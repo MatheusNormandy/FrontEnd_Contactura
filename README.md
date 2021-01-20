@@ -1,3 +1,15 @@
+
+![Flexpag](https://github.com/MatheusNormandy/Preparatorio-FlexpagFuctura/blob/master/Flexpag.png)
+
+
+# • Java-Frontend:
+
+### ➝ HTML
+### ➝ CSS
+### ➝ Typescript
+### ➝ Bootstrap
+
+
 # Contactura
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.11.
